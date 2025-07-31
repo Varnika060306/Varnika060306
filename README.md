@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there, I'm Varnika Sharma 👋</h1>
-<h3 align="center">GSSoC Contributor • Open Source Contributor • PrepNerdz Hall of Fame 🏆</h3>
+<h3 align="center">GSSoC Aspirant • Open Source Contributor • PrepNerdz Hall of Fame 🏆</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Varnika060306&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
