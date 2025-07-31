@@ -59,8 +59,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Varnika060306&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://streak-stats.demolab.com?user=Varnika060306&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-11-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Merged%20PRs-5-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Issues%20Opened-1-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repositories%20Contributed%20To-9-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Commits-42-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-83-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Joined-July%2022%2C%202025-lightgrey?style=for-the-badge" />
 </p>
 
 <p align="center">
