@@ -82,7 +82,7 @@ I’m here to contribute, collaborate, and make projects better.
 - 🔗 [GitHub](https://github.com/Varnika060306)
 - ✍️ [Dev.to Blog](https://dev.to/varnika_sharma_227924c81f)
 - 📫 Email:svarnika1324@gmail.com
-- Linkedin[LinkedIn](http://linkedin.com/in/varnika-sharma-b24ab82b9)
+- [LinkedIn](http://linkedin.com/in/varnika-sharma-b24ab82b9)
 ---
 
 <!--
