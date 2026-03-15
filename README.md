@@ -12,8 +12,7 @@
 ## ✨ Who I Am
 
 💻 I’m a passionate contributor to open source projects with **80+ contributions in 2025** alone.  
-🏆 I was featured in the **Hall of Fame** for [PrepNerdz](https://github.com/Shubhashish-Chakraborty/prepnerdz), one of the most active GSSoC tagged projects.  
-📬 I’ve submitted **11 pull requests** across diverse GSSoC labeled repositories.  
+🏆 I was featured in the **Hall of Fame** for [PrepNerdz](https://github.com/Shubhashish-Chakraborty/prepnerdz), one of the most active GSSoC tagged projects.    
 🧠 I'm not learning to contribute, I already do.  
 🎯 My goal is to contribute with intent, quality, and long-term impact.
 
@@ -30,13 +29,12 @@
 
 ## 📂 GSSoC Contributions At a Glance
 
-- 🔧 **11 PRs** submitted across:
+- 🔧 **PRs** submitted across:
   - Front end logic  
   - UI animation  
   - Component responsiveness  
   - Docs & maintainability
-- ✅ **5 PRs merged** and publicly visible  
-- 🛠️ 1 self-raised issue + PR on my own repo (JobQuest)  
+- ✅ **5 PRs merged** and publicly visible    
 - 👑 Featured in [PrepNerdz Hall of Fame](https://github.com/Shubhashish-Chakraborty/prepnerdz/pull/12)
   <img width="807" height="609" alt="Screenshot 2025-08-01 at 2 19 29 AM" src="https://github.com/user-attachments/assets/1a946e99-3430-4d5a-9039-34ef2cd30d55" />
   <img width="964" height="399" alt="Screenshot 2025-08-01 at 2 13 03 AM" src="https://github.com/user-attachments/assets/6196f463-b436-413c-a16c-69b8e1e9b010" />
