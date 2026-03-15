@@ -24,8 +24,7 @@
 | 💡 Project | 🔍 Description | 🔗 Link |
 |-----------|----------------|--------|
 | **JobQuest** | AI-powered Resume–JD Matcher with skill-gap suggestions | [GitHub Repo](https://github.com/Varnika060306/JobQuest) |
-| **GitHub Card Generator** | Dynamic React cards for dev profiles | [GitHub Repo](https://github.com/Varnika060306/github-card-generator) |
-| **ResumeGenie** *(WIP)* | Drag-and-drop resume builder with PDF export | *Coming soon* |
+| **codeflex-ai** | Voice-powered AI fitness trainer | [GitHub Repo](https://github.com/Varnika060306/codeflex-ai.git) |
 
 ---
 
